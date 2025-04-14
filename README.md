@@ -2,7 +2,7 @@
 
 A modern web application that aggregates job listings from multiple sources (LinkedIn, Google Jobs) and provides intelligent job matching based on user criteria.
 
-![Search Interface](screenshots/Output1.PNG)
+![Search Interface](screenshots/input.PNG)
 
 ## Features
 
@@ -118,7 +118,7 @@ cd <project-directory>
 2. Create a virtual environment and activate it:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv\Scripts\activate
 ```
 
 3. Install dependencies:
@@ -156,7 +156,4 @@ The application will be available at `http://localhost:8000`
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-[Your License Here]
 
