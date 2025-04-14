@@ -45,7 +45,7 @@ This endpoint handles job search requests and returns matched jobs from multiple
 }
 ```
 
-![API Input Example](Screenshots/API%20INput.PNG)
+![API Input Example](Screenshots/input.PNG)
 
 #### Response Format
 ```json
