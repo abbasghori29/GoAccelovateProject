@@ -2,7 +2,7 @@
 
 A modern web application that aggregates job listings from multiple sources (LinkedIn, Google Jobs) and provides intelligent job matching based on user criteria.
 
-![Search Interface](screenshots/input.PNG)
+![Search Interface](Screenshots/input.PNG)
 
 ## Features
 
