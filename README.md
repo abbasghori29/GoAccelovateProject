@@ -1,4 +1,4 @@
-# Job Search Aggregator
+# Job Finder
 
 A modern web application that aggregates job listings from multiple sources (LinkedIn, Google Jobs) and provides intelligent job matching based on user criteria.
 
