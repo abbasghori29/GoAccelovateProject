@@ -24,7 +24,7 @@ A modern web application that aggregates job listings from multiple sources (Lin
   - Location
   - Required skills
 
-![Search Results](screenshots/output2.PNG)
+![Search Results](Screenshots/output2.PNG)
 
 ## API Endpoints
 
@@ -45,7 +45,7 @@ This endpoint handles job search requests and returns matched jobs from multiple
 }
 ```
 
-![API Input Example](screenshots/API%20INput.PNG)
+![API Input Example](Screenshots/API%20INput.PNG)
 
 #### Response Format
 ```json
